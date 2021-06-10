@@ -61,7 +61,7 @@ body {
 }
 
 .colapsodescricao {
-    background-color: #61d0d0;
+    background-color: #ccc;
     color: #444;
     cursor: pointer;
     padding: 18px;
@@ -86,11 +86,11 @@ body {
   }
 
 .color {
-    background-color: #808080
+    background-color: #ccc
 
 }
 
 .colors {
-    background-color: #61d0d0
+    background-color: #ccc
 
 }
