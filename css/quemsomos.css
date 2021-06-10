@@ -36,8 +36,23 @@ body {
     height: 94vh;
 }
 
-.boxdevs {
+
+.dev {
     border: 1px solid #000;
-    border-radius: 20% 5%;
-    display: flex;
+    border-radius: 2%;
+    padding: 0;
+    margin: 2%;
+    background-color: #c7c7c7;
+}
+
+.dev img {
+    width: 20vw;
+    height: 40vh;
+    border-bottom: 1px solid #000;
+    border-radius: 2% 2% 0% 0%;
+}
+
+.dev p {
+    text-align: center;
+    font-size: 22px;
 }
