@@ -4,6 +4,24 @@ body {
     background-color: #ffffff;
 }
 
+h1{
+    font-family: 'Caveat', cursive;
+    text-align: center;
+    font-size: 90px;
+    height: 10vh;
+    margin: 0;
+}
+
+
+/* MENU DE OPÇÕES */
+.menu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 90vh;
+}
+
 .opcao p {
     position: absolute;
     width: 100%;
@@ -11,14 +29,6 @@ body {
     bottom: 0;
     text-align: center;
     font-size: 30px;
-}
-
-.menu {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 100vw;
-    height: 100vh;
 }
 
 .opcao {
